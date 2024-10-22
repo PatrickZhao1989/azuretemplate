@@ -93,3 +93,4 @@ DumpStack.log*
 logs/
 
 TestDB.db
+publish_output
